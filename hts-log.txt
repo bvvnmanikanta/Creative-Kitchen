@@ -1,0 +1,60 @@
+HTTrack3.47-27+htsswf+htsjava launched on Sat, 09 Feb 2019 10:53:23 at http://creativemodular.in/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qgr5%e1C2%Pnxs2u1%s%u%Ip7BdK0H0%kf2A50000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" http://creativemodular.in/ -O1 "C:\My Web Sites\Creative_Kitchen" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:56:18	Warning: 	Found for 360degreeinfo.com/robots.txt
+10:56:18	Warning: 	Redirected link is identical because of 'URL Hack' option: 360degreeinfo.com/robots.txt and https://360degreeinfo.com/robots.txt
+10:56:18	Warning: 	File has moved from 360degreeinfo.com/robots.txt to https://360degreeinfo.com/robots.txt
+10:56:18	Warning: 	Found for 360degreeinfo.com/
+10:56:18	Warning: 	Redirected link is identical because of 'URL Hack' option: 360degreeinfo.com/ and https://360degreeinfo.com/
+10:56:18	Warning: 	File has moved from 360degreeinfo.com/ to https://360degreeinfo.com/
+10:56:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/crossword.png
+10:56:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/logo.png
+10:56:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/ser4.jpg
+10:56:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/ser2.jpg
+10:56:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/serv1.jpg
+10:56:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/project-1.jpg
+10:56:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/project-2.jpg
+10:56:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/project-3.jpg
+10:56:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/project-4.jpg
+10:56:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/project-5.jpg
+10:56:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/project-6.jpg
+10:56:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/tenyears.jpg
+10:56:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/pooser1.jpg
+10:56:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/ward1.jpg
+10:56:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/zoo.jpg
+10:56:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal1.jpg
+10:56:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal2.jpg
+10:56:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal3.jpg
+10:56:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal4.jpg
+10:56:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal5.jpg
+10:56:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal6.jpg
+10:56:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal7.jpg
+10:56:51	Warning: 	HTML file (27253 bytes) retransferred due to lack of cache: creativemodular.in/index.php
+10:56:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal8.jpg
+10:56:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal9.jpg
+10:56:54	Warning: 	HTML file (5839 bytes) retransferred due to lack of cache: creativemodular.in/about.php
+10:56:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal10.jpg
+10:56:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal11.jpg
+10:56:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal12.jpg
+10:56:56	Error: 	"Not Found" (404) at link creativemodular.in/img/browser-icons.png (from creativemodular.in/)
+10:56:56	Error: 	"Not Found" (404) at link creativemodular.in/Slider 360/img/loading.gif (from creativemodular.in/)
+10:56:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal13.jpg
+10:56:56	Error: 	"Not Found" (404) at link creativemodular.in/img/a02.png (from creativemodular.in/)
+10:56:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal14.jpg
+10:56:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/gal15.jpg
+10:56:57	Warning: 	Found for 360degreeinfo.com/robots.txt
+10:56:57	Warning: 	Redirected link is identical because of 'URL Hack' option: 360degreeinfo.com/robots.txt and https://360degreeinfo.com/robots.txt
+10:56:57	Warning: 	File has moved from 360degreeinfo.com/robots.txt to https://360degreeinfo.com/robots.txt
+10:56:59	Warning: 	File not parsed, looks like binary: creativemodular.in/assets/revolution/css/openhand.html
+10:56:59	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/Creative_Kitchen/openhand.html
+10:56:59	Warning: 	File not parsed, looks like binary: creativemodular.in/assets/revolution/css/closedhand.html
+10:56:59	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/Creative_Kitchen/closedhand.html
+10:57:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): creativemodular.in/img/contact.jpg
+
+HTTrack Website Copier/3.47-27 mirror complete in 3 minutes 39 seconds : 151 links scanned, 176 files written (11365101 bytes overall) [9507880 bytes received at 43414 bytes/sec], 140819 bytes transferred using HTTP compression in 15 files, ratio 35%, 1.0 requests per connection
+(3 errors, 46 warnings, 0 messages)

@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Bitter Italic'), local('Bitter-Italic'), url(external.html?link=https://fonts.gstatic.com/s/bitter/v13/rax-HiqOu8IVPmn7erxrJDg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bitter Regular'), local('Bitter-Regular'), url(external.html?link=https://fonts.gstatic.com/s/bitter/v13/rax8HiqOu8IVPmn7f4xs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Bitter Bold'), local('Bitter-Bold'), url(external.html?link=https://fonts.gstatic.com/s/bitter/v13/rax_HiqOu8IVPmnzxKl8Axha.ttf) format('truetype');
+}
